@@ -12,29 +12,29 @@ namespace Operatorsexercise1n2
         public static int Add(int a, int b)
         {
             return (a + b);
-            
+
         }
 
         public static int Subtract(int a, int b)
         {
-            return (a-b);
+            return (a - b);
         }
 
         public static int Multiply(int a, int b)
         {
-            return (a*b);
+            return (a * b);
         }
 
         public static int Divide(int a, int b)
         {
-            return (a/b);
+            return (a / b);
         }
 
         public static int Modulus(int a, int b)
-        { 
-            return (a%b);
+        {
+            return (a % b);
 
-           
+
         }
 
         public static double AreaOfCircle()
@@ -45,3 +45,6 @@ namespace Operatorsexercise1n2
             var area = Math.PI * Math.Pow(radius, 2);
             return area;
         }
+    }
+
+}

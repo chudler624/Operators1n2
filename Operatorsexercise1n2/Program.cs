@@ -16,4 +16,4 @@ Console.WriteLine($"{a}/{b} is {quotient} remainer {remainder}");
 //Console.WriteLine(Methods.Modulus(a, b));
 
 
-
+Console.WriteLine(Methods.AreaOfCircle());
