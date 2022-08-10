@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Operatorsexercise1n2/1.0.0": {
+        "runtime": {
+          "Operatorsexercise1n2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operatorsexercise1n2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
